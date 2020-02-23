@@ -1,2 +1,2 @@
 # AMA
-This repo is to get any question technical or not
+This repo is to ask any question to me (Medhat dawoud)
