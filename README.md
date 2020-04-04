@@ -14,6 +14,7 @@ It's okay to write your question in Arabic, but to make the alignment working as
 
 - [Roadmap for working abroad](https://github.com/medhatdawoud/AMA/issues/16)
 - [Recommendation for JS books](https://github.com/medhatdawoud/AMA/issues/11)
+- [Starting your own business or being a freelancer](https://github.com/medhatdawoud/AMA/issues/37)
 - 
 
 
